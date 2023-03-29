@@ -1,0 +1,12 @@
+cloud:
+  aws:
+    region:
+      static: us-east-2
+      auto: false
+    stack:
+      auto: false
+    credentials:
+      access-key: AKIA6PS436XZZSSPURH2
+      secret-key: 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
+    end-point:
+      uri: https://sqs.us-east-2.amazonaws.com/995553441267/lidor-sqs
